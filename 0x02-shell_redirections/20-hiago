@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Chicago" | grep -d 'cC'
+echo "Chicago" >20-hiago | grep -d 'cC'
